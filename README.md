@@ -9,7 +9,7 @@ Q: How is it simple to use?
 A: Use it like so:
 ```c#
   using System.Collections;
-  using Gh.Os.Collections;
+  using Gh.Os.Concurrent;
   ...
     Queue blockingQueue1 = BlockingQueue.create();
   ...
